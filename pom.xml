@@ -13,20 +13,13 @@
 
     <properties>
         <client.library>pactsafe-java-sdk</client.library>
-        <client.version>1.0.0</client.version>
+        <client.version>1.0.1</client.version>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
     <scm>
-        <!--<url>https://github.com/aws/aws-sdk-java.git</url>-->
+        <url>https://github.com/pactsafe/pactsafe-java-sdk.git</url>
     </scm>
-
-    <!--<licenses>-->
-        <!--<license>-->
-            <!--<name>Apache License, Version 2.0</name>-->
-            <!--<url>https://aws.amazon.com/apache2.0</url>-->
-            <!--<distribution>repo</distribution>-->
-        <!--</license>-->
-    <!--</licenses>-->
 
     <dependencies>
         <dependency>
